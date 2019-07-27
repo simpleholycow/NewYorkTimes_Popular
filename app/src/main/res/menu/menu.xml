@@ -11,21 +11,21 @@
             android:id="@+id/p7"
             android:title="7"
             android:icon="@android:drawable/ic_menu_edit"
-            app:showAsAction="ifRoom">
+            app:showAsAction="never">
 
         </item>
         <item
             android:id="@+id/p15"
             android:title="15"
             android:icon="@android:drawable/ic_menu_edit"
-            app:showAsAction="ifRoom">
+            app:showAsAction="never">
 
         </item>
         <item
             android:id="@+id/p30"
             android:title="30"
             android:icon="@android:drawable/ic_menu_edit"
-            app:showAsAction="ifRoom">
+            app:showAsAction="never">
 
         </item>
     </item>
