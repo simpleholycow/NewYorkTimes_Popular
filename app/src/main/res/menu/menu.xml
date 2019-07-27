@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/period"
+        android:title="period"
+        android:icon="@android:drawable/ic_menu_edit"
+        app:showAsAction="ifRoom">
+        <item
+            android:id="@+id/p7"
+            android:title="7"
+            android:icon="@android:drawable/ic_menu_edit"
+            app:showAsAction="ifRoom">
+
+        </item>
+        <item
+            android:id="@+id/p15"
+            android:title="15"
+            android:icon="@android:drawable/ic_menu_edit"
+            app:showAsAction="ifRoom">
+
+        </item>
+        <item
+            android:id="@+id/p30"
+            android:title="30"
+            android:icon="@android:drawable/ic_menu_edit"
+            app:showAsAction="ifRoom">
+
+        </item>
+    </item>
+
+</menu>

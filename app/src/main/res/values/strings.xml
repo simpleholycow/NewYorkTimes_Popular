@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Xebia News</string>
+    <string name="title_name">New York Popular News</string>
+    <string name="title_activity_detail_news">DetailNews</string>
+
+</resources>
